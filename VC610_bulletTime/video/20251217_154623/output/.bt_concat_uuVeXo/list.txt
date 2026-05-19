@@ -1,0 +1,3 @@
+file 'D:\qt\project\VC610_bulletTime\video\20251217_154623\.bt_tmp_fPLBvo\part_000_pre.mp4'
+file 'D:\qt\project\VC610_bulletTime\video\20251217_154623\.bt_tmp_fPLBvo\part_100_bt.mp4'
+file 'D:\qt\project\VC610_bulletTime\video\20251217_154623\.bt_tmp_fPLBvo\part_999_post.mp4'
