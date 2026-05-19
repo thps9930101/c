@@ -1,0 +1,44 @@
+{
+    "IP": [
+        "172.16.0.1",
+        "172.16.0.2"
+    ],
+    "camList": [
+        "172.16.0.1",
+        "172.16.0.2",
+        "172.16.0.1",
+        "172.16.0.2"
+    ],
+    "encode": {
+        "bitrate": 60000000,
+        "en_format": 0,
+        "fps": 60,
+        "gop": 4,
+        "height": 2160,
+        "max_b_frame": 0,
+        "pix_format": 23,
+        "preset": 0,
+        "profile": 2,
+        "width": 3840
+    },
+    "image": {
+        "ae": "center",
+        "ev": "0.0",
+        "exposureTime": "auto",
+        "iso": "auto",
+        "wb": "auto",
+        "wbCT": 4800,
+        "wdr": "off"
+    },
+    "login": {
+        "account": "test",
+        "auto": true,
+        "password": "1234"
+    },
+    "rotList": [
+        -1,
+        0,
+        -1,
+        -1
+    ]
+}
